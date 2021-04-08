@@ -1,6 +1,5 @@
 package com.peter.spring5.bean;
 
-import com.peter.spring5.bean.bean.User;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

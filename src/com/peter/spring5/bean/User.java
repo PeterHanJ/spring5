@@ -1,4 +1,4 @@
-package com.peter.spring5.bean.bean;
+package com.peter.spring5.bean;
 
 public class User {
     private String userName;
