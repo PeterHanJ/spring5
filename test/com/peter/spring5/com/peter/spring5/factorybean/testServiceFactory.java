@@ -15,5 +15,6 @@ public class testServiceFactory {
 
         accountService.serve();
         userService.serve();
+        System.out.println(context.getType("userService"));
     }
 }
